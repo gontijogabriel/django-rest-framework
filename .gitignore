@@ -279,3 +279,6 @@ pip-selfcheck.json
 
 db.
 db.sqlite3
+__pycache__
+.pyc
+.cpython-310.pyc
