@@ -282,3 +282,5 @@ db.sqlite3
 __pycache__
 .pyc
 .cpython-310.pyc
+/cpython-310/
+core/__pycache__/
